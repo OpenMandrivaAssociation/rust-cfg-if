@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        1.0.0
-Release:        1
+Release:        2
 Summary:        Macro to ergonomically define an item depending on a large number of #[cfg] parameters
 
 # Upstream license specification: MIT/Apache-2.0
