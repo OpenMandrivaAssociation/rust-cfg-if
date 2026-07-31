@@ -4,8 +4,8 @@
 %global crate cfg-if
 
 Name:           rust-%{crate}
-Version:        1.0.0
-Release:        2
+Version:        1.0.4
+Release:        1
 Summary:        Macro to ergonomically define an item depending on a large number of #[cfg] parameters
 
 # Upstream license specification: MIT/Apache-2.0
